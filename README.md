@@ -3,7 +3,6 @@ TEST POSTMAN
     a. node basic_auth.js
     - GET /
     ![alt text](public/results/1.png)
-    - GET /public
     b. node cookie_auth.js
     - POST /login
     ![alt text](public/results/2.png)
